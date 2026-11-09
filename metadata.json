@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Cerdas IPA - SD TERAMIA",
+  "description": "Game Edukasi Interaktif Teka-Teki Silang (TTS) Makhluk Hidup dan Lingkungannya untuk Siswa Kelas 6 SD TERAMIA pada Layar IFP 75 Inci.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
